@@ -13,6 +13,6 @@ I’m a third-year student at the University of Toronto majoring in Computer Sci
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaanethDeSilva&theme=blue-green)
 
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maanethdesilvatheme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaanethDeSilva&theme=blue-green)
 
 
