@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the STEM mobile application
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning GraphQL and GitHub pages
 - 📫 How to reach me: Email: maaneth.2002@gmail.com
 - 😄 Pronouns: He/Him
 
