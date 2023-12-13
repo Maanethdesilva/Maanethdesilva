@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the STEM mobile application
-- 🌱 I’m currently learning GraphQL and GitHub pages
 - 📫 Email: maaneth.2002@gmail.com
 - 🌐 Website: https://maanethdesilva.github.io/
 - 🥅 Linkedin: https://www.linkedin.com/in/maaneth-de-silva/
